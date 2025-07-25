@@ -58,6 +58,7 @@ bread_order.exe
 
 
 📖 Code Structure
+
 Uses if-else and switch-case statements (no arrays or structs for simplicity)
 
 Uses goto labels for re-prompting invalid inputs
@@ -68,6 +69,7 @@ Separate subtotal calculation for each bread type
 
 
 🤝 Authors
+
 Ibnu Ameerul Bin Abdul Halim
 
 Pretty Malthasia Anak Lingeh
